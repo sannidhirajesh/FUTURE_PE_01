@@ -1,87 +1,53 @@
-# Prompt Testing and Evaluation
-
-## Project: Bean & Bloom Café
-
-### Objective
-Test different prompts to understand how prompt structure
-and tone affect the generated website content.
-
 ---
 
-## Test 1: Basic Prompt
+# Additional Prompt Testing and Evaluation
 
-### Prompt
-Write a homepage introduction for a coffee shop called
-Bean & Bloom Café.
+## Test Case 1: Homepage Copy
 
-### Output
-Welcome to Bean & Bloom Café, your destination for
-delicious coffee and a relaxing atmosphere.
+**Input:** Generate homepage copy for Bean & Bloom Café targeting students, professionals, and coffee lovers.
 
-Enjoy your favorite coffee and take a break from
-your busy day.
+**Expected Result:** A welcoming headline, engaging introduction, description of the café, and a clear call to action.
 
-### Observation
-The output is simple but lacks a distinctive brand voice.
+**Evaluation Criteria:**
+- Does the copy reflect the café's cozy identity?
+- Is the language engaging and easy to understand?
+- Does it encourage customers to visit?
 
----
+## Test Case 2: About Us Page
 
-## Test 2: Detailed Prompt
+**Input:** Write an About Us section for Bean & Bloom Café using a friendly and welcoming tone.
 
-### Prompt
-Act as a professional website copywriter.
+**Expected Result:** A short introduction describing the café's atmosphere and customer experience.
 
-Write a homepage introduction for Bean & Bloom Café.
+**Evaluation Criteria:**
+- Is the tone consistent with the brand?
+- Is the content easy to read?
+- Does it avoid unsupported business claims?
 
-Target audience: Students and working professionals.
+## Test Case 3: Menu Description
 
-Brand tone: Warm, cozy, and welcoming.
+**Input:** Write attractive descriptions for espresso, cappuccino, latte, mocha, and cold coffee.
 
-Highlight coffee, comfort, and friendly conversations.
+**Expected Result:** Short, appealing descriptions that explain the drinks clearly.
 
-Keep the content engaging and suitable for a website.
+**Evaluation Criteria:**
+- Are the descriptions relevant to each drink?
+- Are they concise and engaging?
+- Do they avoid unsupported claims?
 
-### Output
-Welcome to Bean & Bloom Café, your cozy corner for
-great coffee and good conversations.
+## Test Case 4: Call to Action
 
-Whether you're taking a study break or catching up
-with friends, enjoy a little moment of comfort
-with every cup.
+**Input:** Generate five calls to action encouraging customers to visit Bean & Bloom Café.
 
-### Observation
-The output is more engaging and better aligned with
-the café's brand identity.
+**Expected Result:** Five short, friendly, and engaging calls to action.
 
----
+**Evaluation Criteria:**
+- Are the calls to action clear?
+- Do they encourage a specific action?
+- Do they match the café's tone?
 
-## Test 3: Conversion-Focused Prompt
+## Overall Evaluation
 
-### Prompt
-Act as a conversion-focused website copywriter.
+The prompts are designed to generate website copy that is clear, engaging, consistent with the brand, and suitable for a café website.
 
-Create a homepage headline and CTA for Bean & Bloom Café.
-
-Encourage visitors to explore the menu and visit the café.
-
-Use friendly, clear, and inviting language.
-
-### Output
-Headline: Your Perfect Coffee Moment Starts Here.
-
-CTA: Find Your Favorite Sip.
-
-Explore our menu and discover your next favorite coffee.
-
-### Observation
-The output includes a clear headline and a direct
-call to action.
-
----
-
-## Conclusion
-
-Testing different prompts demonstrates how adding
-context, audience details, tone, and specific objectives
-can improve the relevance and usefulness of AI-generated
-website copy.
+**Note:** These are test cases and evaluation criteria. Actual prompt outputs should be generated and reviewed before recording final test results.
